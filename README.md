@@ -1,5 +1,3 @@
-# Battle_of_Neighborhood
-
 # Predicting the target locations to open a Chinese Restaurant in Pune, India
 
 ## Introduction: Business Problem
