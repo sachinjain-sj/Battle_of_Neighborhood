@@ -16,6 +16,4 @@ We decided to use regularly spaced grid of locations, centred around city centre
 Following data sources will be needed to extract/generate the required information:
 •	centres of candidate areas will be generated algorithmically and approximate addresses of centres of those areas will be obtained using Geopy Nominatim
 •	number of restaurants and their type and location in every neighbourhood will be obtained using Foursquare API
-•	coordinate of Pune centre will be obtained using Geopy Nominatim of well-known Pune location (Shivajinagar)
-
-
+•	coordinate of Pune centre will be obtained using Geopy Nominatim of well-known Pune location (Shivajinagar
